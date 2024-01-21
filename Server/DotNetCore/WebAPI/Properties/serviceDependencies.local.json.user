@@ -1,0 +1,42 @@
+{
+  "dependencies": {
+    "compute.appService1": {
+      "restored": true,
+      "restoreTime": "2024-01-21T09:01:24.8999961Z"
+    },
+    "apis1": {
+      "restored": true,
+      "restoreTime": "2024-01-21T09:01:34.7253126Z"
+    },
+    "mssql1": {
+      "restored": true,
+      "restoreTime": "2024-01-21T09:14:37.660262Z"
+    },
+    "secrets1": {
+      "restored": true,
+      "restoreTime": "2024-01-21T09:14:33.1364884Z"
+    }
+  },
+  "parameters": {
+    "mssql1.subscriptionId": {
+      "Name": "mssql1.subscriptionId",
+      "Type": "subscription",
+      "Value": "121a2932-9e48-4b41-a7c4-14ce076eea4f"
+    },
+    "compute.appService1.subscriptionId": {
+      "Name": "compute.appService1.subscriptionId",
+      "Type": "subscription",
+      "Value": "121a2932-9e48-4b41-a7c4-14ce076eea4f"
+    },
+    "mssql1.resourceGroupName": {
+      "Name": "mssql1.resourceGroupName",
+      "Type": "resourceGroup",
+      "Value": "shoppingListRG"
+    },
+    "compute.appService1.resourceGroupName": {
+      "Name": "compute.appService1.resourceGroupName",
+      "Type": "resourceGroup",
+      "Value": "shoppingListRG"
+    }
+  }
+}

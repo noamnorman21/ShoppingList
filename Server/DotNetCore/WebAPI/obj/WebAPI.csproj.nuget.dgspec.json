@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\noam1\\OneDrive\\Desktop\\ShoppingListApp\\Server\\DotNetCore\\WebAPI\\WebAPI.csproj": {}
+    "C:\\Users\\noam1\\Source\\Repos\\noamnorman21\\ShoppingList\\Server\\DotNetCore\\WebAPI\\WebAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\noam1\\OneDrive\\Desktop\\ShoppingListApp\\Server\\DotNetCore\\WebAPI\\WebAPI.csproj": {
+    "C:\\Users\\noam1\\Source\\Repos\\noamnorman21\\ShoppingList\\Server\\DotNetCore\\WebAPI\\WebAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\noam1\\OneDrive\\Desktop\\ShoppingListApp\\Server\\DotNetCore\\WebAPI\\WebAPI.csproj",
+        "projectUniqueName": "C:\\Users\\noam1\\Source\\Repos\\noamnorman21\\ShoppingList\\Server\\DotNetCore\\WebAPI\\WebAPI.csproj",
         "projectName": "WebAPI",
-        "projectPath": "C:\\Users\\noam1\\OneDrive\\Desktop\\ShoppingListApp\\Server\\DotNetCore\\WebAPI\\WebAPI.csproj",
+        "projectPath": "C:\\Users\\noam1\\Source\\Repos\\noamnorman21\\ShoppingList\\Server\\DotNetCore\\WebAPI\\WebAPI.csproj",
         "packagesPath": "C:\\Users\\noam1\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\noam1\\OneDrive\\Desktop\\ShoppingListApp\\Server\\DotNetCore\\WebAPI\\obj\\",
+        "outputPath": "C:\\Users\\noam1\\Source\\Repos\\noamnorman21\\ShoppingList\\Server\\DotNetCore\\WebAPI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\noam1\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -51,6 +51,12 @@
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
               "version": "[7.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.5, )"
             },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
