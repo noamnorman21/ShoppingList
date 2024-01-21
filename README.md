@@ -1,26 +1,28 @@
-# Shopping List Application
-The Shopping List Application is a web-based solution that allows users to create and manage their shopping lists. It includes adding products, selecting categories, and summarizing orders.
+# אפליקציית רשימת קניות
+אפליקציית רשימת הקניות היא פתרון מבוסס מערכת אינטרנטית המאפשר למשתמשים ליצור ולנהל את רשימות הקניות שלהם. זה כולל הוספת מוצרים, בחירת קטגוריות צפיה במוצרים קיימים, צפיה בסיכום ההזמנה וביצוע הזמנה.
 
-## Features
-- Create and manage shopping lists
-- Add products with name and category
-- Choose from predefined categories
-- Summary page for order confirmation
-- Autocomplete for products that were ordered before
-- Accordion to show the shopping cart friendly
+## מאפיינים עיקריים
+- יצירה וינןהל רשימות קניות
+- הוספה,עריכה ומחיקת מוצרים לפי שם וקטגוריה
+- בחירה מתוך קטגוריות מוגדרות מראש
+- עמוד סיכום לאישור הזמנה
+- השלמה אוטומטית למוצרים שהוזמנו קודם לכן
+- אקורדיון כדי להראות את עגלת הקניות ידידותית עם אפשרות לעריכת כמות המוצרים ומחיקת מוצר.
 
+## טכנולוגיות בשימוש
+- צד לקוח: React
+- צד שרת (מסך ראשון): Node.JS
+- צד שרת (מסך שני): .NET Core & Entity Framework
+- מסד נתונים: רלציוני, MS-SQL אחסון באמצעות AZURE
+- ספריית עיצוב ממשק משתמש: Material-UI
+- אחסון בענן - Azure
+- ניהול חנות ומצבים: Redux ToolKit
 
-## Technologies Used
-- Frontend: React
-- Backend (Screen 1): Node.js 
-- Backend (Screen 2): .NET Core & Entity Framework
-- Database: SQL (Relational)
-- UI Design Library: Material-UI
-- Cloud Deployment: Azure
-- State Management: Redux Toolkit
-
-### Prerequisites
+### דרישות מוקדמות
 - Node.js for the frontend
 - .NET Core 6 for the backend
 - MS-SQL Server for the database
 - Git for version control
+
+## הערות 
+אבקש לציין כי כפי שניתן לראות גם בהיסטוריה ביצעתי העלאה לענן באמצעות AZURE בהצלחה, אך ברגע האחרון נפל/חסמו המשתמש/שרת שהחזיק את הפרוייקטים. ניסיתי ליצור קשר עם התמיכה של AZURE אך ללא הצלחה. בררתי עם עוד מכר וטען שזה קורה לו. ככל הנראה תקלה רוחבית. במידה וניתן יהיה לתת הארכה בכדי לבצע ניסיון להעלות לענן חלופי, אשמח מאד לממש.
