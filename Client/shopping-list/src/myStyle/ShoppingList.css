@@ -1,0 +1,290 @@
+.css-ffg8md-MuiNativeSelect-select-MuiInputBase-input-MuiOutlinedInput-input.css-ffg8md-MuiNativeSelect-select-MuiInputBase-input-MuiOutlinedInput-input.css-ffg8md-MuiNativeSelect-select-MuiInputBase-input-MuiOutlinedInput-input {
+   padding: 16.5px 14px !important;
+}
+
+.muirtl-mhc70k-MuiGrid-root>.MuiGrid-item,
+.css-mhc70k-MuiGrid-root>.MuiGrid-item {
+   padding: 0px !important;
+}
+
+.css-mhc70k-MuiGrid-root {
+   width: 95% !important;
+}
+
+.css-zow5z4-MuiGrid-root>.MuiGrid-item {
+   padding: 1% 0% !important;
+}
+
+.css-1g12qau-MuiSvgIcon-root-MuiNativeSelect-icon {
+   left: 10px !important;
+   right: auto !important;
+}
+
+.css-zow5z4-MuiGrid-root {
+   width: 100% !important;
+}
+
+#headerDiv {
+   background-color: #2196F3;
+   padding: 20px;
+   text-align: center;
+}
+
+#smHeaderDiv {
+   background-color: #2196F3;
+   margin-top: 10px;
+   text-align: center;
+   padding: 2px;
+}
+
+#containerDiv {
+   display: flex;
+   flex-wrap: wrap;
+   justify-content: space-around;
+}
+
+#formContainer {
+   display: flex;
+   flex-wrap: wrap;
+   width: 100%;
+   justify-content: space-between;
+   margin: 0 auto;
+}
+
+.input-select {
+   width: 100%;
+   height: 2.5em;
+   margin: 1em 0;
+   font-size: 1em;
+   border-radius: 5px;
+   font-family: 'Calibri' !important;
+}
+
+#addBtn:hover,
+#addProductBtn:hover {
+   background-color: #0d8bf2;
+   box-shadow: 0px 0px 5px 0px rgba(0, 0, 0, 0.75);
+}
+
+#closeBtn {
+   width: 100%;
+   margin: 0 auto;
+   margin-top: 10px;
+   border-color: #2196F3;
+   border-width: 2px;
+   height: 40px;
+   font-size: 16px;
+   cursor: pointer;
+   display: flex;
+   justify-content: center;
+   font-family: 'Calibri' !important;
+}
+
+#divContainer {
+   height: '100%';
+   background-color: '#f2f2f2';
+}
+
+/* Accordion List Item */
+div.css-518kzi-MuiListItemSecondaryAction-root,
+.css-1h51icj-MuiAutocomplete-root .MuiOutlinedInput-root .MuiAutocomplete-endAdornment {
+   left: 16px !important;
+   right: auto !important;
+
+}
+
+.css-10hburv-MuiTypography-root {
+   display: flex !important;
+}
+
+.css-hcmkxp-MuiListItem-root {
+   padding: 0px 16px !important
+}
+
+div.MuiBox-root>div {
+   margin-top: 5px !important;
+}
+
+#order-summary {
+   display: flex;
+   flex-direction: column;
+   align-items: center;
+   margin: 20px;
+}
+
+#order-form {
+   display: flex;
+   flex-direction: column;
+   align-items: center;
+}
+
+.order-label {
+   font-size: 16px;
+}
+
+.MuiFormHelperText-root.Mui-required {
+   font-size: 12px;
+}
+
+#typoStyle {
+   font-size: 16px;
+   font-weight: bold;
+}
+
+.totalItemsContainer {
+   text-align: center;
+   background-color: #f2f2f2;
+   padding: 1em;
+   font-size: 1.2em;
+   font-weight: bold;
+   color: #666;
+   margin-top: 1em;
+}
+
+
+#textInput,
+#selectCategory {
+   /* TextField שם המוצר */
+   padding-right: 0px;
+   padding-top: 0px !important;
+}
+
+#textInput,
+#selectCategory,
+#addProduct {
+   flex: 1;
+   margin: 0.5em;
+   padding: 0.5em;
+}
+
+#addProduct {
+   padding-top: 0px;
+}
+
+/* OrderSummary.jsx */
+/* ShoppingList.jsx */
+
+#free-solo-demo,
+#textInput,
+#typoStyle,
+#addProductBtn,
+.muirtl-gdh49b-MuiAutocomplete-listbox .MuiAutocomplete-option,
+.muirtl-sghohy-MuiButtonBase-root-MuiButton-root,
+#free-solo-demo-label,
+.css-154xyx0-MuiInputBase-root-MuiOutlinedInput-root,
+.muirtl-10hburv-MuiTypography-root,
+#finishOrderBtn {
+   font-family: 'Calibri' !important;
+   font-size: 16px;
+   color: #000;
+}
+
+#headerDiv {
+   font-size: 2em;
+   padding: 20px;
+   color: white;
+}
+
+#addProductBtn {
+   width: 100%;
+   height: 2.5em;
+   color: #fff;
+   margin-top: 1em;
+}
+
+#addBtn,
+#addProductBtn {
+   width: 100%;
+   height: 40px;
+   border-radius: 5px;
+   color: white;
+   background-color: #2196F3;
+   font-size: 16px;
+   cursor: pointer;
+}
+
+#finishOrderBtn {
+   width: 100%;
+   height: 40px;
+   border-radius: 5px;
+   color: #2196F3;
+   background-color: #fff;
+   font-size: 16px;
+   cursor: pointer;
+   border: 2px solid #2196F3;
+   font-weight: bold;
+}
+
+
+
+.makeStyles-orderSummary-5>h4 {
+   font-family: 'Calibri';
+}
+
+img.imgForCat {
+   width: '50px';
+   height: '50px';
+   margin-right: '10px'
+}
+
+.muirtl-12ogz78-MuiNativeSelect-select-MuiInputBase-input-MuiOutlinedInput-input {
+   font-family: 'Calibri' !important;
+   font-size: 14px;
+   color: #000;
+   width: 100% !important;
+}
+
+.MuiFormLabel-root,
+.MuiFormHelperText-root {
+   font-family: 'Calibri' !important;
+   font-size: 14px !important;
+}
+
+@media (max-width: 768px) {
+   #containerDiv {
+      margin: 0 auto;
+      width: 100%;
+   }
+
+   .muirtl-o4b71y-MuiAccordionSummary-content.Mui-expanded {
+      margin: 0px !important;
+   }
+
+   #formContainer {
+      flex-direction: column;
+      width: 100%;
+      margin: 0 auto;
+   }
+
+   .input-select {
+      width: 100%;
+   }
+
+   #headerDiv {
+      font-size: 1.2em;
+      padding: 10px;
+   }
+
+   #addProductBtn {
+      margin-top: 0.5em;
+   }
+
+   .totalItemsContainer {
+      font-size: 1em;
+   }
+
+   #textInput,
+   #selectCategory,
+   #addProduct {
+      margin: 0.2em;
+      padding: 0.2em;
+   }
+
+   #addBtn {
+      margin: 0.5em 0px;
+   }
+
+   .muirtl-zow5z4-MuiGrid-root>.MuiGrid-item {
+      padding: 10px !important;
+   }
+}

@@ -1,0 +1,16 @@
+body {
+  margin: 0;
+  font-family: 'Calibri';
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+#root {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  margin: 0 auto;
+  width: 94% !important;
+  max-width: 1200px;
+  font-family: 'Calibri' !important;
+}
